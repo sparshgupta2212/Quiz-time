@@ -10,7 +10,6 @@ $(document).ready(function(){
        return;
       }
       $(".sec2").fadeOut();
-      
     });
 
    
