@@ -11,6 +11,5 @@ $(document).ready(function(){
       }
       $(".sec2").fadeOut();
     });
-
-   
+    
 });
