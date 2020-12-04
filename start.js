@@ -9,7 +9,6 @@ $(document).ready(function(){
        alert("Please Enter Your Name")
        return;
       }
-      
       $(".sec2").fadeOut();
       
     });
