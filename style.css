@@ -95,7 +95,6 @@
      color:#fff;
      animation:zoomOut 300ms ease;
     }
-    
     @keyframes zoomOut{
      0% ,100%{
       transform:scale(1);
