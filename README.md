@@ -1,3 +1,3 @@
-# quizmasterfullstackproject
+Quiz-Time project
 
-Link:-https://sparshgupta2212.github.io/quizmasterfullstackproject/
+Link:- https://sparshgupta2212.github.io/Quiz-time/
