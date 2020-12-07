@@ -19,10 +19,10 @@ const ques=[
 "They both support Object Oriented Programming","None of the above"],crt:1},
 {que:"Java Script entities start with ____________ and end with ______________",option:["Semicolon, colon","Semicolon, Ampersand","Ampersand, colon ","Ampersand, semicolon"],crt:3},
 {que:"How to append a value to an array of Java Script?",option:[" arr[arr.length] = value ","arr[arr.length+1] = new Arrays()","arr[arr.length-1] = value", "arr[arr.length*1] = value"],crt:0},
-{que:" Jquery is a library for _______ scripting.",option:["Client ","Server","Both a and b","None of these"],crt:3}];
+{que:" Jquery is a library for _______ scripting.",option:["Client ","Server","Both a and b","None of these"],crt:2}];
  let score = 0, index = 0, name = "",answer = [], times;
 
- 
+
  $(document).ready(function(){
     $(".sec3").fadeIn();
     newQuestion()
