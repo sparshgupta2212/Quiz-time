@@ -9,6 +9,9 @@ $(document).ready(function(){
        alert("Please Enter Your Name")
        return;
       }
+      else{
+        location.href="quiz.html";
+      }
       $(".sec2").fadeOut();
     });
 });
