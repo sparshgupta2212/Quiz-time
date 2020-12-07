@@ -21,6 +21,8 @@ const ques=[
 {que:"How to append a value to an array of Java Script?",option:[" arr[arr.length] = value ","arr[arr.length+1] = new Arrays()","arr[arr.length-1] = value", "arr[arr.length*1] = value"],crt:0},
 {que:" Jquery is a library for _______ scripting.",option:["Client ","Server","Both a and b","None of these"],crt:3}];
  let score = 0, index = 0, name = "",answer = [], times;
+
+ 
  $(document).ready(function(){
     $(".sec3").fadeIn();
     newQuestion()
